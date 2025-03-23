@@ -154,3 +154,5 @@ function toggleTheme() {
 
 ![Captura del tema](./screenshot.png)
 
+![Captura del tema](./screenshot-darktheme.png)
+
