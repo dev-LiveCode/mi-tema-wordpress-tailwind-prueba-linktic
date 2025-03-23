@@ -6,6 +6,10 @@
 
 Tema personalizado para WordPress desarrollado con Tailwind CSS. Incluye un Custom Post Type “Libros”, taxonomía personalizada “Géneros”, modo oscuro y plantillas customizadas.
 
+Enlace plantilla personalizada ->  http://<domunio>:<puerto>/test
+Enlace plantilla libros        ->  http://<domunio>:<puerto>/libros
+Enlace plantilla libro        ->  http://<domunio>:<puerto>/libros/<slug titulo del libro>
+
 ---
 
 ## 📁 Estructura del Tema
@@ -152,7 +156,9 @@ function toggleTheme() {
 - Vista de un libro en frontend
 - Modo oscuro
 
+Light theme
 ![Captura del tema](./screenshot.png)
 
+Dark theme
 ![Captura del tema](./screenshot-darktheme.png)
 
