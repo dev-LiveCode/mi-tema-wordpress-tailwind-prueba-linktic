@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.button-header {
+    @apply 
+        text-[#3F327A] 
+        font-semibold 
+        px-10 
+        py-5 
+        rounded-lg 
+        transition ml-5
+        font-inter
+        text-center
+        ;
+}
+
+.image {
+  @apply
+    my-5;
+}
+
+
