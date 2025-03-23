@@ -151,3 +151,8 @@ function toggleTheme() {
 - Panel de administración (CPT y taxonomía)
 - Vista de un libro en frontend
 - Modo oscuro
+
+![Captura del tema](./screenshot.png)
+
+![Captura del tema](./screenshot-darktheme.png)
+
